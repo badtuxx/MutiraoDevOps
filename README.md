@@ -1,4 +1,4 @@
-#  MutiraoDevOps
+#  Mutirão DevOps
 
  
 O objetivo desse repositório é reunir a maior quantidade de comandos específicos de Linux para troubleshooting do sistema.
@@ -22,7 +22,7 @@ Volta um nível de diretório:
 
   
 
-cd \..\
+    cd \..\
 
   
 
@@ -30,7 +30,7 @@ Dois níveis e assim por diante:
 
   
 
-cd \..\..\
+    cd \..\..\
 
   
 
@@ -38,7 +38,7 @@ Entrar diretamente no home do usuário corrente:
 
   
 
-cd ~
+    cd ~
 
   
 
@@ -60,4 +60,6 @@ Comando para checar o seu IP público:
 Mostrando os IPs privados:
 
     hostname -I
+
+
 
