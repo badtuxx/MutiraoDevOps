@@ -33,4 +33,9 @@ Comando para checar o seu IP público:
 
     curl -s https://checkip.amazonaws.com
 
+Mostrando os IPs privados:
+
+```
+hostname -I
+```
 
