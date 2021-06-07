@@ -5,9 +5,22 @@ O objetivo desse repositório é reunir a maior quantidade de comandos específi
 
 ## Checagem do SO
 
-Usem o StackEdit !
+*Usem o StackEdit:* https://stackedit.io/app#
 
-## Comandos práticos do dia a dia
+## Sistema de arquivos
+
+ **Diretórios:**
+Volta um nível de diretório:
+
+    cd \..\
+
+Dois níveis e assim por diante:
+
+    cd \..\..\
+
+Entrar diretamente no home do usuário corrente:
+
+    cd ~
 
 ## Boot
 
@@ -15,4 +28,4 @@ Usem o StackEdit !
 
 ## Internet
 
-## Sistema de arquivos
+
