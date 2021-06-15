@@ -2,7 +2,7 @@
  
 O objetivo desse repositório é reunir a maior quantidade de comandos específicos de Linux para troubleshooting do sistema.
 
-Para aprender Markdown - Recomendamos utilização do [StackEdit] (https://stackedit.io/app#) - _In-browser Markdown editor_ 
+Recomendamos utilização do [StackEdit] (https://stackedit.io/app#) - _In-browser Markdown editor_ 
 
 
 ##  Checagem do SO
