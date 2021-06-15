@@ -16,20 +16,20 @@ Para aprender Markdown - Recomendamos utilização do [StackEdit] (https://stack
 Volta um nível de diretório:
 
 ```bash
-    cd \..\
+$ cd \..\
 ```
 
 Dois níveis e assim por diante:
   
 ```bash
-    cd \..\..\
+$ cd \..\..\
 ```
 
 Entrar diretamente no home do usuário corrente:
 
 ```bash
-    cd ~
 ```
+$ cd ~
   
 
 ##  Boot
@@ -46,11 +46,11 @@ Entrar diretamente no home do usuário corrente:
 Comando para checar o seu IP público:
 
 ```bash
-    curl -s https://checkip.amazonaws.com
+$ curl -s https://checkip.amazonaws.com
 ```  
   
 Mostrando os IPs privados:
 
 ```bash
-    hostname -I
+$ hostname -I
 ```
