@@ -1,9 +1,14 @@
 #  Mutirão DevOps
+
+O #MutiraoDevOps é um treinamento/mentoria ministrado pela LINUXtips, totalmente gratuito, voltado para comunidade. 
+As aulas serão realizadas no Canal da LINUXtips na [Twitch] (https://www.twitch.tv/linuxtips), aos sábados, 
+ministradas por especialistas de diversas áreas, convidados pela LINUXtips. Maiores detalhes [clique aqui] (https://www.youtube.com/watch?v=JKf9JmDwVNw) e assista o vídeo.
+
+Os inscritos no #MutiraoDevOps terão o acesso exclusivo das aulas gravadas na plataforma da LINUXtips.
  
 O objetivo desse repositório é reunir a maior quantidade de comandos específicos de Linux para troubleshooting do sistema.
 
 Recomendamos utilização do [StackEdit] (https://stackedit.io/app#) - _In-browser Markdown editor_ 
-
 
 ##  Checagem do SO
   
