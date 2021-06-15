@@ -14,8 +14,8 @@ sudo tcpdump -i lo port 8080 -A
 
 # Perf
 ```bash
-sudo  perf record -a -g sleep 10
-sudo  perf report --sort comm,dso
+sudo perf record -a -g sleep 10
+sudo perf report --sort comm,dso
 ```
 
 # Ltrace
