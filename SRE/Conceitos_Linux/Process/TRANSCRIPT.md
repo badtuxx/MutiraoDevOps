@@ -91,9 +91,9 @@ Ai que tá a jogada, vamos fazer um hands on :
 - Imagina um processo rodando que voce não tem acesso ao source code pra precisa entender o q ele esta fazendo ou onde esta tendo erro, onde ta parando. Voce não precisa ler o codigo.
 Vamos tentar com alguns programinhas q eu criei de exemplo.
 
-- exemplo do Seek()
-- exemplo do Stat()
-- agora vamos ver o fork()
+- exemplo do [Seek()](exemplos/seek.py)
+- exemplo do [Stat()](exemplos/stat.py)
+- agora vamos ver o [fork()](exemplos/garfo/)
 - por ultimo uma api simples que podemos fazer as chamadas e ver o que esta acontecendo dentro do processo mesmo sem ter o codigo fonte.
 
 "Mas agora como eu sei o q eu devo filtrar?" 
