@@ -37,14 +37,14 @@ Exemplo de estrutura de tópicos das aulas
 
 1. [Aulas de introdução a carreira](base/README.md)
 2. [Abertura](https://www.twitch.tv/videos/1023835055?filter=archives&sort=time)
-3. [Conhecendo o Linux](https://www.twitch.tv/videos/1031695846?filter=archives&sort=time) | [Material da aula](/MutiraoDevOps/day-1/README.md)
-4. [ZTD com André Brandão](https://www.twitch.tv/videos/1039460668?filter=archives&sort=time) | [Material da aula](/MutiraoDevOps/day-2/)
-5. [Linux e as System calls com Giordano Fechio](https://www.twitch.tv/videos/1039460668?filter=archives&sort=time) | [Material da aula](/MutiraoDevOps/day-3/)
-6. [Comunicação com Yuri Ramos](https://www.twitch.tv/videos/1054215924?filter=archives&sort=time) | [Material da aula](/MutiraoDevOps/day-4/)
-7. [Redes com Giordano Fechio](https://www.twitch.tv/videos/1061329137?filter=archives&sort=time) | [Material da aula](/MutiraoDevOps/day-5/)
+3. [Conhecendo o Linux](https://www.twitch.tv/videos/1031695846?filter=archives&sort=time) | [Material da aula](MutiraoDevOps/day-1/README.md)
+4. [ZTD com André Brandão](https://www.twitch.tv/videos/1039460668?filter=archives&sort=time) | [Material da aula](MutiraoDevOps/day-2/)
+5. [Linux e as System calls com Giordano Fechio](https://www.twitch.tv/videos/1039460668?filter=archives&sort=time) | [Material da aula](MutiraoDevOps/day-3/)
+6. [Comunicação com Yuri Ramos](https://www.twitch.tv/videos/1054215924?filter=archives&sort=time) | [Material da aula](MutiraoDevOps/day-4/)
+7. [Redes com Giordano Fechio](https://www.twitch.tv/videos/1061329137?filter=archives&sort=time) | [Material da aula](MutiraoDevOps/day-5/)
 
 
- - [Material exemplo](/exemplos)
+ - [Material exemplo](exemplos)
 
 <p align="center">
 
