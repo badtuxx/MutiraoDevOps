@@ -1,9 +1,21 @@
+
 #  Mutirão DevOps
 
  
 O objetivo desse repositório é reunir a maior quantidade de comandos específicos de Linux para troubleshooting do sistema.
 
 ##  Checagem do SO
+
+Mostra as informações de CPU:
+
+    lscpu
+
+Checagem dos núcleos de processador físicos e lógicos:
+
+    cat /proc/cpuinfo | grep processor | wc -l
+
+
+
 
 ##  Sistema de arquivos
 
@@ -38,7 +50,9 @@ Entrar diretamente no home do usuário corrente:
   
 
 ##  Redes
+Checagem de listening de portas
 
+    ss -antpu
 
 ##  Internet
 
