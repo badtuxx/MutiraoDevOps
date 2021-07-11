@@ -29,9 +29,11 @@ Para mais informações acesse o vídeo:
 | [Vídeo -  Linux GNU & Comandos úteis com **Jeferson Fernando**](https://www.twitch.tv/videos/1031695846?filter=archives&sort=time)                                  |                                  [Material](Conceitos_Linux/Command_List/) |
 | [Vídeo - Metodologia ZTD para uma vida mais organizada com **André Brandão**](https://www.twitch.tv/videos/1039460668?filter=archives&sort=time)                    |                         [Material](Soft_Skills/Organizacao_Produtividade/) |
 | [Vídeo - Processos no Linux GNU e as System calls com **Giordano Fechio**](https://www.twitch.tv/videos/1046921715?filter=archives&sort=time)                       |                                       [Material](Conceitos_Linux/Process/) |
-| [Vídeo - Comunicação para a galera de tecnologia com **Yuri Ramos**](https://www.twitch.tv/videos/1054215924?filter=archives&sort=time)                             |                                        [Material](Soft_Skills/Comunicacao) |
+| [Vídeo - Comunicação para a galera de tecnologia com **Yuri Ramos**](https://www.twitch.tv/videos/1054215924?filter=archives&sort=time)                             |                                        [Material](Soft_Skills/Comunicacao/Comunicacao_em_tecnologia/) |
 | [Vídeo - Redes e Troubleshooting no Linux GNU com **Giordano Fechio**](https://www.twitch.tv/videos/1061329137?filter=archives&sort=time)                           |                                       [Material](Conceitos_Linux/Network/) |
 | [Vídeo - A importância de saber dar e receber Feedback com **Bruna Munhoz** e **André Brandão**](https://www.twitch.tv/videos/1061329137?filter=archives&sort=time) |                                          [Material](Soft_Skills/Feedback/) |
+| [Vídeo - Decomplicando redes e endereçamento IP com **Jeferson Fernando** e **Giordano Fechio**](https://www.twitch.tv/videos/1075691058) |                                          [Material](Conceitos_Linux/Network/) |
+| [Vídeo - Comunicação não violenta com **André Brandão**](https://www.twitch.tv/videos/1082723293) |                                          [Material](Soft_Skills/Comunicacao/Comunicacao_nao_violenta/) |
 
 </br>
 
