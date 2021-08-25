@@ -37,6 +37,10 @@ Para mais informações acesse o vídeo:
 | [Vídeo - Desconstruindo a web com **Willian Molinari**](https://www.twitch.tv/videos/1089776626?filter=all&sort=time) |                                          [Material](cege.la/3hIYiCc) |
 | [Vídeo - Descomplicando o Zabbix com **Patrícia Ladislau**](https://www.twitch.tv/videos/1096900430?filter=all&sort=time) |                                          [Material](https://github.com/patricialadislaus/MUTIRAODEVOPS) |
 | [Vídeo - Descomplicando a memória com **Rafael Benvenuti**](https://www.twitch.tv/videos/1104087084?filter=all&sort=time) |                                          [Material](Conceitos_Linux/Memory/) |
+| [Vídeo - Stack DevOps com **Camilla Martins (Punk do DevOps)**](https://www.twitch.tv/videos/1111273508) |                                          [Material](DevOps/Stack/) |
+| **A importância das comunidades de tecnologia com a Leticia Silva e o Marco Martins (Somatório)**|                                          [Vídeo](https://www.twitch.tv/videos/1118327809) |
+| [Vídeo - Resolução de problemas com **Yuri Ramos**](https://www.twitch.tv/videos/1125339419?t=00h29m45s) |                                          [Material](Soft_Skills/Resolucao_Problemas/) |
+| [Vídeo - Carreira a prova de bala com OpenSource com **Carlisia Thompson**](https://www.twitch.tv/videos/1125339419?t=01h42m30s) |                                          [Material](Open_Source/Carreira/) |
 
 </br>
 
