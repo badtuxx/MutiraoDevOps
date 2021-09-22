@@ -8,7 +8,7 @@
 
 Figura 1.0: Define uma estrutura basica sem escalabilidade, e com um unico servidor contendo multplos serviços.
 
-![image](figura_1.0.png)
+![image](img/figura_1.0.png)
 
 Figura 1.1:  Mostra um serviço distribuido em varios servidores e usando tecnologias diferente, com  um nivel minimo de disponilibilidade dentro dos requerimentos definidos do problema.
 Pontos de ressalta e estudo.
@@ -20,7 +20,7 @@ Pontos de ressalta e estudo.
 - Object storage vs block storage
 - Relational DB vs Non-Relational DB
 
-![image](figura_1.1.png)
+![image](img/figura_1.1.png)
 
 Figura 1.2: Mostra escale de Banco de dados com Multi Master setup e replicas, adicionamos neste desenho uma CDN para conteúdo estático, como imagens, para que reduza a quantidade de requisições a ser processada pelo serviço principal, deixando-o focado somente para processamento de retorno dinâmico.
 
@@ -28,9 +28,9 @@ Figura 1.2: Mostra escale de Banco de dados com Multi Master setup e replicas, a
 	- Endpoint para as replicas servindo requisições de READ
 	- Endpoint master servindo requisições de WRITE.
 
-![image](figura_1.2.png)
+![image](img/figura_1.2.png)
 
 Figura 1.3: Definimos na figura abaixo apenas outros serviços, ou abordagens,  que devem ser considerados quando desenhando um sistema. Deve-se entender os requerimentos que vão te trazer a suas decisões e também os "trade-offs" que serão feitos, para que se escolha uma decisão por outra. 
 
 
-![image](figura_1.3.png)
+![image](img/figura_1.3.png)
