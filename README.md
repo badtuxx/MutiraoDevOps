@@ -41,6 +41,7 @@ Para mais informações acesse o vídeo:
 | **A importância das comunidades de tecnologia com a Leticia Silva e o Marco Martins (Somatório)**|                                          [Vídeo](https://www.twitch.tv/videos/1118327809) |
 | [Vídeo - Resolução de problemas com **Yuri Ramos**](https://www.twitch.tv/videos/1125339419?t=00h29m45s) |                                          [Material](Soft_Skills/Resolucao_Problemas/) |
 | [Vídeo - Carreira a prova de bala com OpenSource com **Carlisia Thompson**](https://www.twitch.tv/videos/1125339419?t=01h42m30s) |                                          [Material](Open_Source/Carreira/) |
+| **Descomplicando api gateway com Somatório** | [Material](https://github.com/somatorio/demo-kong) |
 
 </br>
 
