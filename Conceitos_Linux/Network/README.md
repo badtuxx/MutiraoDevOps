@@ -25,7 +25,7 @@ Em uma breve introdução, redes de computadores são baseadas em diferentes pro
 
 No modelo de camada OSI, temos 7 camadas de redes para comunição entre os computadores.
 
-![OSI_LAYERS](OSI_Layers.jpeg)
+![OSI_LAYERS](img/OSI_Layers.jpeg)
 
 ### Resumo:
 
@@ -78,7 +78,7 @@ O `servidor y` recebe esta mensagem com a flag de inicio de conversa e responde 
 
 ## Conteúdo de um pacote TCP
 
-![TCP_packet](TCP_packet.png)
+![TCP_packet](img/TCP_packet.png)
 
 - Source Port: É a porta onde é iniciada a comunicação do servidor de envio.
 - Destination Port: É a porta do servidor de destino.
@@ -97,7 +97,7 @@ UDP é um pouco diferente do TCP. Quando existem uma comunicação com um outro 
 
 ## Conteúdo de um pacote UDP:
 
-![UDP_packet](UDP_packet.png)
+![UDP_packet](img/UDP_packet.png)
 
 Source Port: É a porta onde é iniciada a comunicação do servidor de envio.
 Destination Port: Porta do servidor de Destino.
@@ -125,13 +125,13 @@ Em um terminal, execute a ferramenta `tcpdump` para capturar o tráfego da API e
 
 ```sudo tcpdump -i any port 8080```
 
-![tcpdump-1](tcpdump-1.png)
+![tcpdump-1](img/tcpdump-1.png)
 
 ou, redirecionando o tráfego para um arquivo para posteriormente analisarmos os pacotes no `wireshark`.
 
 ```sudo tcpdump -i any port 8080 -w go_api.pcap```
 
-![tcpdump-2](tcpdump-2.png)
+![tcpdump-2](img/tcpdump-2.png)
 
 [Execute](../) a API em outro terminal e acesse no seu navegador o endereço `localhost:8080/read` (por exemplo) para acessar a API na porta 8080 na rota `read` para gerarmos tráfego na rede. Você pode fazer o mesmo com as de mais rotas disponíveis.
 
@@ -141,7 +141,7 @@ ou, redirecionando o tráfego para um arquivo para posteriormente analisarmos os
 
 Agora vamos lá abrir o `wireshark` e ver como isso funciona.
 
-![wireshark-1](wireshark-1.png)
+![wireshark-1](img/wireshark-1.png)
 
 Na imagem acima temos a comunição do cliente (nossa máquina, `Source`) com  com o servidor (go_api, `Destination`) ou `three-way handshake (acordo de três vias)`. Temos, também, o protocolo de comunição (`Protocol`), o tamanho do pacote (`Length`) e informações detalhadas como foi essa comunicação (`Info`).
 
@@ -149,7 +149,7 @@ No campo `Info`, são apresentadas algumas flags que descrevem a comunicação e
 
 Assim como há flags para representar a comunicação do protocolo TCP, temos a comunicação do protocolo HTTP, de acordo com a configuração da aplicação que usa este protocolo.
 
-![wireshark-2](wireshark-2.png)
+![wireshark-2](img/wireshark-2.png)
 
 A imagem acima mostra o cliente enviando méetodo de requisição do tipo `GET` ao servidor, na rota `/read` da `go_api`.
 
@@ -162,7 +162,7 @@ Junto com o livro, vocês podem baixar os arquivos `pcap` do `wireshark` que est
  `Livro e arquivos`: [NoStarch](https://nostarch.com/packetanalysis3)
 
 </br>
----
+
 ### Vamos aprender mais um pouco ?
 
 - [Window size](https://www.networkcomputing.com/data-centers/network-analysis-tcp-window-size)
