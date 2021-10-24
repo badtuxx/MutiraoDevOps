@@ -45,7 +45,7 @@ Para mais informações acesse o vídeo:
 | [Vídeo - Descomplicando o API Gateway com **Marco Martins (Somatório)**](https://www.twitch.tv/videos/1152544086) |                                          [Material](https://github.com/somatorio/demo-kong) |
 | **CHECKPOINT com Jeferson Fernando e Giodarno Fechio**| [Parte 1](https://www.twitch.tv/videos/1165626672) - [Parte 2](https://www.twitch.tv/videos/1165692234)|
 | [Vídeo - Observabilidade com OpenTelemetry com **Fernando Ike**](https://www.twitch.tv/videos/1172147054) |                                          [Material](#) |
-| [Vídeo - Meu plano de carreira que nunca existiu com Michel Pereira](https://www.twitch.tv/videos/1178621992) |                                          [Material](#) |
+| [Vídeo - Meu plano de carreira que nunca existiu com **Michel Pereira**](https://www.twitch.tv/videos/1178621992) |                                          [Material](#) |
 | [Vídeo - Descomplicando o Python com **Bruno Rocha**](https://www.twitch.tv/videos/1178621992) |                                          [Material](#) |
 
 </br>
