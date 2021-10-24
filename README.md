@@ -41,7 +41,12 @@ Para mais informações acesse o vídeo:
 | **A importância das comunidades de tecnologia com a Leticia Silva e o Marco Martins (Somatório)**|                                          [Vídeo](https://www.twitch.tv/videos/1118327809) |
 | [Vídeo - Resolução de problemas com **Yuri Ramos**](https://www.twitch.tv/videos/1125339419?t=00h29m45s) |                                          [Material](Soft_Skills/Resolucao_Problemas/) |
 | [Vídeo - Carreira a prova de bala com OpenSource com **Carlisia Thompson**](https://www.twitch.tv/videos/1125339419?t=01h42m30s) |                                          [Material](Open_Source/Carreira/) |
-| **Descomplicando api gateway com Somatório** | [Material](https://github.com/somatorio/demo-kong) |
+| [Vídeo - Como se tornar insubstitível no trabalho com **Yuri Ramos**](https://www.twitch.tv/videos/1145837063) |                                          [Material](Soft_Skills/Comunicacao/Como_se_tornar_insubstituivel/) |
+| [Vídeo - Descomplicando o API Gateway com **Marco Martins (Somatório)**](https://www.twitch.tv/videos/1152544086) |                                          [Material](https://github.com/somatorio/demo-kong) |
+| **CHECKPOINT com Jeferson Fernando e Giodarno Fechio**| [Parte 1](https://www.twitch.tv/videos/1165626672) - [Parte 2](https://www.twitch.tv/videos/1165692234)|
+| [Vídeo - Observabilidade com OpenTelemetry com **Fernando Ike**](https://www.twitch.tv/videos/1172147054) |                                          [Material](#) |
+| [Vídeo - Meu plano de carreira que nunca existiu com Michel Pereira](https://www.twitch.tv/videos/1178621992) |                                          [Material](#) |
+| [Vídeo - Descomplicando o Python com **Bruno Rocha**](https://www.twitch.tv/videos/1178621992) |                                          [Material](#) |
 
 </br>
 
