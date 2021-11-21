@@ -7,7 +7,6 @@ O objetivo desse repositório é reunir a maior quantidade de comandos específi
 (*Usem o StackEdit:* https://stackedit.io/app#)
 
   
-
 ##  Checagem do SO
 
   
@@ -20,38 +19,26 @@ O objetivo desse repositório é reunir a maior quantidade de comandos específi
 
 Volta um nível de diretório:
 
-  
-
     cd \..\
-
   
-
 Dois níveis e assim por diante:
-
-  
 
     cd \..\..\
 
-  
-
-Entrar diretamente no home do usuário corrente:
-
-  
+  Entrar diretamente no home do usuário corrente:
+ 
 
     cd ~
-
   
 
 ##  Boot
 
-  
+Checa o tempo médio de execução do boot:
+
+    systemd-analyze
+
 
 ##  Redes
-
-ss -an
-
-##  Internet
-
 
 Comando para checar o seu IP público:
   
@@ -102,11 +89,13 @@ Como filtrar soquetes usando estados TCP:
  
 Para TCP com IPV4,
 
-    ss -4 state NOME-FILTRO-EXEMPLO
+    ss -4 state NOME-FILTRO
 
 Para TCP com IPV6,
 
-    ss -6 state NOME-FILTRO-EXEMPLO
+    ss -6 state NOME-FILTRO
+
+
 
 
 
