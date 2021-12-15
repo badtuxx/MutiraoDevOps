@@ -25,18 +25,18 @@ Para mais informações acesse o vídeo:
 | Assunto                                                                                                                                                             |                                                                   Conteúdo |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------: |
 | **Introdução à carreira**                                                                                                                                           |                               [Videoaulas](Preparatorio_Mutirao/README.md) |
-| **Abertura do projeto**                                                                                                                                             | [Vídeo](https://www.twitch.tv/videos/1023835055?filter=archives&sort=time) |
-| [Vídeo -  Linux GNU & Comandos úteis com **Jeferson Fernando**](https://www.twitch.tv/videos/1031695846?filter=archives&sort=time)                                  |                                  [Material](Conceitos_Linux/Command_List/) |
-| [Vídeo - Metodologia ZTD para uma vida mais organizada com **André Brandão**](https://www.twitch.tv/videos/1039460668?filter=archives&sort=time)                    |                         [Material](Soft_Skills/Organizacao_Produtividade/) |
-| [Vídeo - Processos no Linux GNU e as System calls com **Giordano Fechio**](https://www.twitch.tv/videos/1046921715?filter=archives&sort=time)                       |                                       [Material](Conceitos_Linux/Process/) |
-| [Vídeo - Comunicação para a galera de tecnologia com **Yuri Ramos**](https://www.twitch.tv/videos/1054215924?filter=archives&sort=time)                             |                                        [Material](Soft_Skills/Comunicacao/Comunicacao_em_tecnologia/) |
-| [Vídeo - Redes e Troubleshooting no Linux GNU com **Giordano Fechio**](https://www.twitch.tv/videos/1061329137?filter=archives&sort=time)                           |                                       [Material](Conceitos_Linux/Network/) |
-| [Vídeo - A importância de saber dar e receber Feedback com **Bruna Munhoz** e **André Brandão**](https://www.twitch.tv/videos/1061329137?filter=archives&sort=time) |                                          [Material](Soft_Skills/Feedback/) |
+| **Abertura do projeto**                                                                                                                                             | [Vídeo](https://www.twitch.tv/videos/1023835055) |
+| [Vídeo -  Linux GNU & Comandos úteis com **Jeferson Fernando**](https://www.twitch.tv/videos/1031695846)                                  |                                  [Material](Conceitos_Linux/Command_List/) |
+| [Vídeo - Metodologia ZTD para uma vida mais organizada com **André Brandão**](https://www.twitch.tv/videos/1039460668)                    |                         [Material](Soft_Skills/Organizacao_Produtividade/) |
+| [Vídeo - Processos no Linux GNU e as System calls com **Giordano Fechio**](https://www.twitch.tv/videos/1046921715)                       |                                       [Material](Conceitos_Linux/Process/) |
+| [Vídeo - Comunicação para a galera de tecnologia com **Yuri Ramos**](https://www.twitch.tv/videos/1054215924)                             |                                        [Material](Soft_Skills/Comunicacao/Comunicacao_em_tecnologia/) |
+| [Vídeo - Redes e Troubleshooting no Linux GNU com **Giordano Fechio**](https://www.twitch.tv/videos/1061329137)                           |                                       [Material](Conceitos_Linux/Network/) |
+| [Vídeo - A importância de saber dar e receber Feedback com **Bruna Munhoz** e **André Brandão**](https://www.twitch.tv/videos/1061329137) |                                          [Material](Soft_Skills/Feedback/) |
 | [Vídeo - Decomplicando redes e endereçamento IP com **Jeferson Fernando** e **Giordano Fechio**](https://www.twitch.tv/videos/1075691058) |                                          [Material](Conceitos_Linux/Network/) |
 | [Vídeo - Comunicação não violenta com **André Brandão**](https://www.twitch.tv/videos/1082723293) |                                          [Material](Soft_Skills/Comunicacao/Comunicacao_nao_violenta/) |
-| [Vídeo - Desconstruindo a web com **Willian Molinari**](https://www.twitch.tv/videos/1089776626?filter=all&sort=time) |                                          [Material](https://cege.la/3hIYiCc) |
-| [Vídeo - Descomplicando o Zabbix com **Patrícia Ladislau**](https://www.twitch.tv/videos/1096900430?filter=all&sort=time) |                                          [Material](https://github.com/patricialadislaus/MUTIRAODEVOPS) |
-| [Vídeo - Descomplicando a memória com **Rafael Benvenuti**](https://www.twitch.tv/videos/1104087084?filter=all&sort=time) |                                          [Material](Conceitos_Linux/Memory/) |
+| [Vídeo - Desconstruindo a web com **Willian Molinari**](https://www.twitch.tv/videos/1089776626) |                                          [Material](https://cege.la/3hIYiCc) |
+| [Vídeo - Descomplicando o Zabbix com **Patrícia Ladislau**](https://www.twitch.tv/videos/1096900430) |                                          [Material](https://github.com/patricialadislaus/MUTIRAODEVOPS) |
+| [Vídeo - Descomplicando a memória com **Rafael Benvenuti**](https://www.twitch.tv/videos/1104087084) |                                          [Material](Conceitos_Linux/Memory/) |
 | [Vídeo - Stack DevOps com **Camilla Martins (Punk do DevOps)**](https://www.twitch.tv/videos/1111273508) |                                          [Material](DevOps/Stack/) |
 | **A importância das comunidades de tecnologia com a Leticia Silva e o Marco Martins (Somatório)**|                                          [Vídeo](https://www.twitch.tv/videos/1118327809) |
 | [Vídeo - Resolução de problemas com **Yuri Ramos**](https://www.twitch.tv/videos/1125339419?t=00h29m45s) |                                          [Material](Soft_Skills/Resolucao_Problemas/) |
@@ -46,7 +46,11 @@ Para mais informações acesse o vídeo:
 | **CHECKPOINT com Jeferson Fernando e Giodarno Fechio**| [Parte 1](https://www.twitch.tv/videos/1165626672) - [Parte 2](https://www.twitch.tv/videos/1165692234)|
 | [Vídeo - Observabilidade com OpenTelemetry com **Fernando Ike**](https://www.twitch.tv/videos/1172147054) |                                          [Material](#) |
 | [Vídeo - Meu plano de carreira que nunca existiu com **Michel Pereira**](https://www.twitch.tv/videos/1178621992) |                                          [Material](#) |
-| [Vídeo - Descomplicando o Python com **Bruno Rocha**](https://www.twitch.tv/videos/1178621992) |                                          [Material](#) |
+| [Vídeo - Descomplicando o Python com **Bruno Rocha**](https://www.twitch.tv/videos/1178621992) |                                          [Material](https://github.com/rochacbruno/python-hello-world) |
+| [Vídeo - Boas práticas na criação de clusters Kubernetes com **João Freire (P0ssuidao)**](https://www.twitch.tv/videos/1178621992) |                                          [Material](https://github.com/P0ssuidao/MutiraoDevOps) |
+| [Vídeo - Falando de monitoramento com **Robert Silva**](https://www.twitch.tv/videos/1211288993) |                                          [Material](https://www.mindmeister.com/1828387828?t=Pc9oVfHqmw) |
+| [Vídeo - Como usar lambdas@edge - Tudo sobre CDN na AWS com **Rondineli Gomes**](https://www.twitch.tv/videos/1217571323) |                                          [Material](https://github.com/Rondineli/mutirao_devops_cloudfront_demo) |
+| [Vídeo - Encerramento 2021 com **Jeferson Fernando** e **Giordano Fechio**](https://www.twitch.tv/videos/1224047195) |                                          [Material](#) |
 
 </br>
 
